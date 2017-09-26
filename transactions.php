@@ -418,10 +418,6 @@ if (isLogged()) {
 			</div>
 			<div class="row">
 				<div class="col-lg-12">
-					<div class="alert alert-danger text-center">
-						Due to the <a href="https://github.com/iotaledger/wallet/releases/tag/v2.5.0" target="_blank"><b>recent changes</b></a> in IOTA protocol, this web wallet is currently <b>NOT FUNCTIONAL</b>! We hope this will be resolved within few days.<br />
-						For more information please <a href="support.php">contact support</a>!
-					</div>
 					<div class="panel panel-default">
 						<div class="panel-heading">
 							All transactions
