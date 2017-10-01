@@ -38,7 +38,7 @@ Thats why when you login, you can change your PIN to a standard password ("advan
 
 Then, not even the DB admin with a supercomputer can brute-force your SEED.
 
-**NOTE: THAT ALSO MEANS THAT IF YOU FORGET YOUR PIN YOU CANNOT ACCESS YOU ACCOUNT!**
+**NOTE: THAT ALSO MEANS THAT IF YOU FORGET YOUR PIN YOU CANNOT ACCESS YOUR ACCOUNT!**
 
 
 When you login, you can generate ([browser-side](https://github.com/MrRio/jsPDF)) a .PDF containing your SEED. With it, you can login to other wallets and in case you forget your PIN, you can still access your funds.
