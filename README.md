@@ -24,7 +24,7 @@ When accessing the wallet, you can choose to login with email and password, or w
 When preforming any important action in IOTA Web Wallet (updating balance, sending money, generating addresses...) user is asked for this PIN number - without it Crypto.JS cannot decrypt the SEED. 
 **Encrypted SEED is sent to server, but before it's saved in user DB, it's aditionally encrypted using a 64-character key**
 
-2. If a user decides to login with his SEED (or he can easily generate a new one) then he is promped to write a 4-digit PIN. Again, this is just for security reasons, because this encrypted SEED is then saved in [Browser Session Storage](https://www.w3schools.com/html/html5_webstorage.asp).
+2. If a user decides to login with his SEED (or he can easily generate a new one) then he is prompted to write a 4-digit PIN. Again, this is just for security reasons, because this encrypted SEED is then saved in [Browser Session Storage](https://www.w3schools.com/html/html5_webstorage.asp).
 
 
 **Why is encrypted again when registering?**
@@ -34,7 +34,8 @@ To brut-force a 4 digit PIN (10,000 combinations) a average computer needs < 1 s
 
 **What about the DB admin, he can decrpyt DB using server-side key and brut-force SEEDs?**
 
-Thats why when you login, you can change your PIN to a standard password ("advanced PIN") - 8-32 characters = **min. 94^8 combinations**
+Thats why when you login, you can change your PIN to a standard password ("advanced PIN") - 8-32 characters = **min. 94^8 combinations**.
+
 Then, not even the DB admin with a supercomputer can brute-force your SEED.
 
 **NOTE: THAT ALSO MEANS THAT IF YOU FORGET YOUR PIN YOU CANNOT ACCESS YOU ACCOUNT!**
@@ -54,7 +55,7 @@ Features:
 - Latest receiving address display - text + QR code
 - Send IOTA: Scan QR code of address, switch between units (iota, Ki, Mi, Gi, Ti, Pi)
 - Double spend warning
-- .pdf generator with account SEED = "Paper Wallet"
+- PDF generator with account SEED = "Paper Wallet"
 - Change email / password / PIN / delete account
 - Contact support (tickets)
 - Current IOT/USD price + chart (last month)
