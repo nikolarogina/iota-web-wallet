@@ -73,7 +73,7 @@ This Web Wallet uses [curl.lib.js](https://github.com/iotaledger/curl.lib.js) to
 
 Acknowledgements:
 -------------
-Web wallet was inspired by [danilind web wallet](https://www.reddit.com/r/Iota/comments/6jld9z/iota_web_wallet/). Special thanks to [pRizz](https://github.com/pRizz) for help with new curl implemmentation and developers on [Slack](slack.iota.org), especially Frode Halvorsen (@frha).
+Web wallet was inspired by [danilind web wallet](https://www.reddit.com/r/Iota/comments/6jld9z/iota_web_wallet/). Special thanks to [pRizz](https://github.com/pRizz) for help with new curl implemmentation and developers on [Slack](https://slack.iota.org), especially Frode Halvorsen (@frha).
 
 
 Author: dr. Nikola Rogina, admin of local IOTA website for Croatia [iota.hr](https://www.iota.hr/) 
