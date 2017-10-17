@@ -43,7 +43,8 @@
 				window.parent.$('#modal').modal('toggle');
 			}
 		}).catch(function (e) {
-			console.error(e);
+			alert('No cameras found!');
+			window.parent.$('#modal').modal('toggle');
 		});
 	});
 	</script>
