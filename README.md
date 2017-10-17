@@ -50,7 +50,7 @@ Features:
 - Refresh account data
 - Transactions (tx) display (sent/received) with linking to [explorer](https://thetangle.org)
 - "Auto-monitor" for transactions (check for new/confirmed tx every 3 minutes)
-- re-attaching option for pending sent transactions
+- re-attaching option for pending transactions
 - Convert IOTA balance / tx value into USD
 - Latest receiving address display - text + QR code
 - Send IOTA: Scan QR code of address, switch between units (iota, Ki, Mi, Gi, Ti, Pi)
@@ -80,7 +80,7 @@ Author: dr. Nikola Rogina, admin of local IOTA website for Croatia [iota.hr](htt
 
 Donations:
 -------------
-IOTA: UCMXZDZYUDBOFQOYTIRLTMBXAHKOWAUJAYXJTFMZSILBRWTOHSTWNEIJF9P9ZGKLIDYYRKHOXPAESPKECTEXUNUHHW
+IOTA: 9CVEDRAKV9NMMVFXNTAAHDKYWCYQLZOXCB9JDHYBRQGYBCAZENFLLBXG9OQYUHHFGJGSRSZXUSZOLQUJXGFDINZIQX
 
 BTC: 1EdSShMGQKdppzvZeEQougAKbuxeJXLPt3
 
